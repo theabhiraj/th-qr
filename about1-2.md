@@ -1,0 +1,1 @@
+TH-QR is a QR code generator web app that lets users create, customize, and manage QR codes with an intuitive interface. Built with React and modern web technologies for a seamless user experience.
